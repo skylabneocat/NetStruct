@@ -1,7 +1,7 @@
 # 📶 NetStruct - Telecom Company Database Simulation
 
 ## 🗂️ Overview
-NetStruct is a simulated telecommunications company database built in Microsoft Excel. It models network infrastructure, customer data, and budgeting for a fictional company based in Abu Dhabi. Ideal for learning, analysis, or prototyping.
+NetStruct simulates a telecommunications company's database using Microsoft Excel. It models infrastructure, consumer data, and budgeting to provide a comprehensive view of telecom operations in an Abu Dhabi-based scenario.
 
 ## 📁 What's Inside
 ### 🏗️ Cellular Infrastructure
@@ -30,7 +30,7 @@ NetStruct is a simulated telecommunications company database built in Microsoft 
 - Great for analysis, planning, and simulations
 
 ## ▶️ How to Use
-Open the Excel file using Microsoft Excel or a compatible spreadsheet app. Browse tabs to explore different data types. Use filters, formulas, or pivot tables for further analysis.
+This project serves as a theoretical reference for telecom data organizations. It can be adapted for educational purposes, prototyping, or internal planning simulations.
 
 ## 🧰 Requirements
 - Microsoft Excel (or compatible software like Google Sheets)
